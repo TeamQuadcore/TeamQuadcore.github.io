@@ -6,7 +6,7 @@ excerpt_separator:  <!--more-->
 ---
 
 ![Alt text](/assets/img/tour1.jpeg)
-![Alt text](/assets/img/tou2.jpeg)
+![Alt text](/assets/img/tour2.jpeg)
 ![Alt text](/assets/img/tour3.jpeg)
 ![Alt text](/assets/img/tour4.jpeg)
 ![Alt text](/assets/img/tour5.jpeg)
