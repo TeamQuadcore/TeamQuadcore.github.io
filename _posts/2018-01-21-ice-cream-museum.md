@@ -5,7 +5,6 @@ category: SV Experiences
 excerpt_separator:  <!--more-->
 ---
 
-![Alt text](/assets/img/ice.JPG)
 ![Alt text](/assets/img/ice2.JPG)
 ![Alt text](/assets/img/ice3.JPG)
 ![Alt text](/assets/img/ice4.JPG)
