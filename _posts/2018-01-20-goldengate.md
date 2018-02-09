@@ -9,6 +9,11 @@ excerpt_separator:  <!--more-->
 ![Alt text](/assets/img/golden2.JPG)
 ![Alt text](/assets/img/golden3.JPG)
 
+### Our route
+- 
+
+### When
+- Fri, Jan 18, 2018 at 1:30 PM ~ 7:30 PM
 
 ### Bike tour From Fisherman’s Wharf to Sausalito 
  > This is the thing that you must do in SF. Weather, wind, view, and Golden gate bridge was just perfect. It’s the one you can experience only in Sausalito. The night view of San Francisco from Sausalito was also beautiful. I strongly recommend this!

@@ -8,6 +8,11 @@ excerpt_separator:  <!--more-->
 ![Alt text](/assets/img/google1.jpg)
 ![Alt text](/assets/img/google2.jpg)
 
+### Where
+- Google SF, Spear Street, San Francisco, CA
+
+### When
+- Thu, Jan 15, 2018 at 10:30 AM ~ 4:30 PM
 
 ### Everyone was excited to go into Google, the dream company.
  > The inside of company was really clean and has various facilities. Googlers don’t have to go out for something, everything can be solved in Google. There, we did one by one coding interview with Donghyun mentor and Soohyun mentor. It was really really precious memory for us.

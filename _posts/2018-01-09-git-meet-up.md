@@ -15,7 +15,6 @@ excerpt_separator:  <!--more-->
 ### When
 - Tue, Jan 9, 2018 at 6:30 PM
 
-
 ### We went to rithm school to learn git & terminal commands.
  > 1. Learn how developers work together and share code
  2. Become familiar with one of the most frequently used developer tools: the terminal 

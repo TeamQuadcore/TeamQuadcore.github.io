@@ -6,8 +6,11 @@ excerpt_separator:  <!--more-->
 ---
 
 ![Alt text](/assets/img/youtube1.jpeg)
+- We took a picture with Teahoon & Jungeun mentor! Let's go Youtube :)
 ![Alt text](/assets/img/youtube2.jpeg)
+- This is youtube.
 ![Alt text](/assets/img/tour9.jpeg)
+- We eat In-N-OUT burger in youtube.
 
 ### We visited Youtube with 4 mentors and we took a look at the inside.
  >Donghyun Kim Mentor and Soohyun Lee Mentor showed how to collaborate with git in conference room. We learned how to use it by typing commands. Jeongeun Kim Mentor explained what PRD(program requirements document) is, both were really good time. Each of students conducted HR interviews in English while holding a meeting about team products. It was a good time to experience indirectly HR interviews in Silicon Valley, USA.
