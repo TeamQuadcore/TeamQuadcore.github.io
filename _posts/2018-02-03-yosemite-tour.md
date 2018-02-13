@@ -23,12 +23,22 @@ excerpt_separator:  <!--more-->
 ### When
 - Sat, Feb 03, 2018 at 06:00 AM ~ 10:30 PM
 
-### Our route
- > 
+### Experience the incredible scenery of Yosemite National Park
+ > and a Giant Sequoia Walk all in 1-day on this tour. You'll have hours to explore, marveling at the Half Dome, Yosemite Falls and amazing Giant Sequoia trees before returning to San Francisco.
+
+ ### Experience
+ > ##### Highlights
+ * Spend 5-6 hours exploring Yosemite National Park's stunning scenery
+ * Enjoy a 1-hour Sequoia Walk to marvel at the world's tallest trees
+ * View the majestic Bridalveil and Yosemite Falls
+ * See Inspiration Point, and the amazing El Capitan and Half Dome cliffs
+ * Learn about the National Park from your fully-guided audio commentary as you explore
+ * Enjoy the personalized experience of being in a small group
 
 
 ### Tips
- > 
+ > [Refer this link to book Yosemite tour](https://www.getyourguide.com/san-francisco-l61/san-francisco-1-day-yosemite-national-park-giant-sequoias-t10773/#)
+- There is a restaurant, but I recommend to bring some food and snack.
 
 * * *
 
