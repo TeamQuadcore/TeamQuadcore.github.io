@@ -23,11 +23,11 @@ excerpt_separator:  <!--more-->
 ### When
 - Sat, Feb 03, 2018 at 06:00 AM ~ 10:30 PM
 
-### 
+### Our route
  > 
 
 
- ### 
+### Tips
  > 
 
 * * *
@@ -35,8 +35,17 @@ excerpt_separator:  <!--more-->
 ## REVIEW
 <dl>
     <dt>Seungwoo Jeong</dt>
-        <dd>
+        <dd> “This is Yosemite.” That’s real. That was Yosemite. I can’t express the magnificent of nature. I was overwhelmed by scale and beauty of Yosemite. I truly recommend this tour if you are planning to visit SF. 
     </dd>
+    <dt>Minjun Cha</dt>
+        <dd>I could see why yosemite is the best landscape in the world. It was a day soaked with the beauty of nature. I keep reminding this comment. “This is Yosemite…!”
+        </dd>
+    <dt>Seunghwan Hong</dt>
+        <dd>Breathtaking; this word explains all my experiences at there. Stunning view makes me calm and peaceful. I will never forget that.
+        </dd>
+    <dt>Hyeonggeun Eom</dt>
+        <dd>How can I express it in text? In front of Mother Nature, I was so small and small. I remember this phrase most memorably. “This is Yosemite!”
+        </dd>
 </dl>
 
 * * *
