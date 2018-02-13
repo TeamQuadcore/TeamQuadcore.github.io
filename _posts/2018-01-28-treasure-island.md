@@ -5,12 +5,12 @@ category: SV Experiences
 excerpt_separator:  <!--more-->
 ---
 
-![Alt text](/assets/img/is.JPG)
+![Alt text](/assets/img/is.JPG){: width="100px" height="100px"}
 - They sell variety of vintage clothes.
-![Alt text](/assets/img/is1.JPG)
-![Alt text](/assets/img/is3.JPG)
-![Alt text](/assets/img/is4.JPG)
-![Alt text](/assets/img/is7.JPG)
+![Alt text](/assets/img/is1.JPG){: width="100px" height="100px"}
+![Alt text](/assets/img/is3.JPG){: width="100px" height="100px"}
+![Alt text](/assets/img/is4.JPG){: width="100px" height="100px"}
+![Alt text](/assets/img/is7.JPG){: width="100px" height="100px"}
 
 ### Where
 - 500 Avenue N, San Francisco, CA 94130
