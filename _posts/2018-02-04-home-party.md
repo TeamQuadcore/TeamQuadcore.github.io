@@ -20,16 +20,16 @@ New House, New Start!
 ## REVIEW
 <dl>
     <dt>Seungwoo Jeong</dt>
-        <dd>Soooooo nice food! Teahoon mentor is a really great chef. We had a wonderful time at his house with Donghyun and Soohyun mentor. They told about company culture of google and youtube and emphasized about leetcode. Today’s lesson : ‘Leetcode code is the best.’
+        <dd>We moved to Daly city, so we invited mentors to new house. We prepare a lot of Korean dishes :). Every moment with mentors is valuable and fun. I’m so sad that only 2 weeks left..
     </dd>
     <dt>Minjun Cha</dt>
-        <dd>
+        <dd> It was a good experience to invite mentors to come home, eat food together and watch the Super Bowl. It is always fun to spend time with mentors :)
         </dd>
     <dt>Seunghwan Hong</dt>
-        <dd>
+        <dd> It was our last party moment of that house. I was little sad for leaving this house but I was happy after I heard about Korean market nearby our new house ;)
         </dd>
     <dt>Hyeonggeun Eom</dt>
-        <dd>
+        <dd>Although it was not enough to express gratitude to mentors, it was a delicious dinner and i was happy. Ethan has served 4 bowls. I am most pleased with this.
         </dd>
 </dl>
 
