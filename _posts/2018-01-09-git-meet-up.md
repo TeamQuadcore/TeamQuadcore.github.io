@@ -67,10 +67,6 @@ origin : git sever repository
     <dt>Seungwoo Jeong</dt>
         <dd>Even though I’m already familiar with git & terminal command, it was a nice opportunity to truly perfect the work flow with git. Not much hard to understand I could learn easily. First meet-up was perfect! I really expect the rest of meet-up.
         </dd>
-    <dt>Hyeonggeun Eom</dt>
-        <dd>
-            fill it!
-        </dd>
 </dl>
 
 

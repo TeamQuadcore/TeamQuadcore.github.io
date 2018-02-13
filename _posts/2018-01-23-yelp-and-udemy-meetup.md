@@ -44,13 +44,13 @@ excerpt_separator:  <!--more-->
         <dd>I was expected about this meet-up, but it was really hard to understand their speech. I decided to improve my listening skill……
     </dd>
     <dt>Minjun Cha</dt>
-        <dd>It was the best experience I have had in the United States. It took longer than I thought to ride a bicycle. But I could see the magnificent view and the big Golden Gate Bridge. It was really really great.
+        <dd> It was really hard to me. The subject itself was very difficult and I feel lack of my listening ability.
         </dd>
     <dt>Seunghwan Hong</dt>
-        <dd>It was like imagination. View over the bridge, lovely houses in Sausalito… Literally best experience I ever had in San Francisco. Period.
+        <dd> Nice talk with good pizza! Yelp building was also great for me. Happy experience for touring Yelp and listening some nice growth talk! 
         </dd>
     <dt>Hyeonggeun Eom</dt>
-        <dd>I can be sure that this experience is one of the best experiences I've had in a month. I was so surprised to actually see the Golden Gate, which I was only seeing in pictures. The scenery around Sausalito and Golden Gate could not be photographed. What can i did is bringing everything in my heart.
+        <dd>Who am i, Where is here… English of speakers is too fast to understand.
         </dd>
 </dl>
 
