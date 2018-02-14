@@ -6,10 +6,18 @@ excerpt_separator:  <!--more-->
 ---
 
 ![Alt text](/assets/img/stanford.jpg)
+- Mint mojito is signature menu in philz coffee
 ![Alt text](/assets/img/stanford2.JPG)
+- In front of paloalto station
 ![Alt text](/assets/img/stanford3.JPG)
-![Alt text](/assets/img/stanford4.JPG)
+- Stanford Campus 
+![Alt text](/assets/img/stanford4.jpg)
 
+### Where
+- Stanford, CA
+
+### When
+- Sun, Jan 14, 2018 at 10:30 AM ~ 8:30 PM
 
 ###  We went to Stanford on the Caltrain,
  > and had lunch at Curry house (recommended by Donghyun mentor). After lunch we drank mint mojito of philz coffee and that was really unique and nice. We walked around Stanford campus and saw Rodin’s collection.

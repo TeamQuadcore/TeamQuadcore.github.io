@@ -9,6 +9,12 @@ excerpt_separator:  <!--more-->
 ![Alt text](/assets/img/ice3.JPG)
 ![Alt text](/assets/img/ice4.JPG)
 
+### Where
+- 1 Grant Ave, San Francisco, CA 94108
+
+### When
+- Tue, Jan 20, 2018 at 3:30 PM ~ 4:30 PM
+
 
 ### Wonderful colors and arts in Ice cream Museum.
  > The museum of ICE CREAM is the place where ideas are transformed into real life experiences a place where flavors are mysteries, toppings are toys and sprinkles make the world a better place. Their mission is to design environments that bring people together & provoke imagination.

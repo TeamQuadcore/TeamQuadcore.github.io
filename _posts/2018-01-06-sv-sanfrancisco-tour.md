@@ -6,8 +6,11 @@ excerpt_separator:  <!--more-->
 ---
 
 ![Alt text](/assets/img/tour1.jpeg)
+- First Free time in Sanfrancisco
 ![Alt text](/assets/img/tour2.jpeg)
+- Near Ferry building
 ![Alt text](/assets/img/tour3.jpeg)
+- Coi tower, the line was so long that we couldn't go up. But the view was fantastic.
 ![Alt text](/assets/img/tour4.jpeg)
 ![Alt text](/assets/img/tour5.jpeg)
 ![Alt text](/assets/img/tour6.jpeg)
