@@ -5,7 +5,7 @@ category: SV Experiences
 excerpt_separator:  <!--more-->
 ---
 
-![Alt text](/assets/img/goo1.JPG)
+![Alt text](/assets/img/pub.jpeg)
 
 ### Where
 - Northstar Cafe 1560 Powell St · San Francisco, CA
