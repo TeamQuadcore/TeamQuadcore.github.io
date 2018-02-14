@@ -1,4 +1,451 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-01-10T20:51:18-08:00</updated><id>http://localhost:4000/</id><title type="html">Team Quadcore</title><subtitle>Project team on KMU Silicon Valley Bootcamp.</subtitle><author><name>Team Quadcore</name></author><entry><title type="html">Work Like a Developer &amp;amp; Intro to Terminal &amp;amp; Git</title><link href="http://localhost:4000/sv%20experiences/2018/01/09/git-meet-up.html" rel="alternate" type="text/html" title="Work Like a Developer &amp; Intro to Terminal &amp; Git" /><published>2018-01-09T00:00:00-08:00</published><updated>2018-01-09T00:00:00-08:00</updated><id>http://localhost:4000/sv%20experiences/2018/01/09/git-meet-up</id><content type="html" xml:base="http://localhost:4000/sv%20experiences/2018/01/09/git-meet-up.html">&lt;p&gt;&lt;img src=&quot;/assets/img/rithm1.jpeg&quot; alt=&quot;Alt text&quot; /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-02-13T16:40:59-08:00</updated><id>http://localhost:4000/</id><title type="html">Team Quadcore</title><subtitle>Project team on KMU Silicon Valley Bootcamp.</subtitle><author><name>Team Quadcore</name></author><entry><title type="html">Idea Pitch in YouTube</title><link href="http://localhost:4000/idea%20pitch/2018/02/13/idea-pitch.html" rel="alternate" type="text/html" title="Idea Pitch in YouTube" /><published>2018-02-13T00:00:00-08:00</published><updated>2018-02-13T00:00:00-08:00</updated><id>http://localhost:4000/idea%20pitch/2018/02/13/idea-pitch</id><content type="html" xml:base="http://localhost:4000/idea%20pitch/2018/02/13/idea-pitch.html">&lt;h2 id=&quot;the-beginning-of-idea-pitch&quot;&gt;The beginning of Idea Pitch&lt;/h2&gt;
+&lt;p&gt;It was so excited just to listen. We couldn’t believe we have a chance to make a presentation to the developers at the best companies. We received a list of companies that we could present ideas.&lt;/p&gt;
+
+&lt;h3 id=&quot;companies&quot;&gt;Companies&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Google Maps&lt;/li&gt;
+  &lt;li&gt;Google NBU(Next Billion Users)&lt;/li&gt;
+  &lt;li&gt;Youtube&lt;/li&gt;
+  &lt;li&gt;Facebook&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We thought a lot about selecting a company. All companies have a clear direction and high scalability. In the end, we chose &lt;strong&gt;YouTube&lt;/strong&gt;, which we use often and the user’s inconvenience was relatively clear.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;planning&quot;&gt;Planning&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;1st week(1.2~1.6)   : Survey of each of the four companies&lt;/li&gt;
+  &lt;li&gt;2nd week(1.8~1.12)  : Select a company&lt;/li&gt;
+  &lt;li&gt;3nd week(1.15~1.19) : Derive Ideas&lt;/li&gt;
+  &lt;li&gt;4th week(1.22~1.26) : Refine ideas&lt;/li&gt;
+  &lt;li&gt;5th week(1.29~2.2)  : User market research (questionnaire, interview)&lt;/li&gt;
+  &lt;li&gt;6th week(2.5~2.9)   : Make Prototype&lt;/li&gt;
+  &lt;li&gt;7th week(2.12~2.14) : Presentation&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;many-meetings&quot;&gt;Many meetings&lt;/h2&gt;
+
+&lt;p&gt;We had one or two weekly meetings. We think it is most important to conceive ideas, so the first month was only for meetings.
+Initially, the meeting was about whether to present ideas for resolving the inconvenience of YouTube users, or for adding new features.&lt;/p&gt;
+
+&lt;h3 id=&quot;new-feature&quot;&gt;New Feature&lt;/h3&gt;
+
+&lt;p&gt;But, resolving the inconvenience is too hard and we thought Youtube had already tried a lot. 
+We focused on finding new feature. After many meetings, we could derive that our common need is convenient sharing. So, we suggested &lt;strong&gt;YouTube Group&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Previous sharing is done by passing the Url to the SNS when sharing the video. We thought it would be easy to create a Group on YouTube. If one member share a video, the rest can watch it in a group playlist.&lt;/p&gt;
+
+&lt;p&gt;Special feature is that you can add applications to shared videos within a group, not just a simple share.
+For example, If you are watching a study video, you can add applications like Google Docs. Then you will see the video on the left and Docs on the right. And next time another member of the same group watches the video, he can see the lecture notes one member has written.&lt;/p&gt;
+
+&lt;p&gt;belows are our meeting documents until now.&lt;/p&gt;
+&lt;h3 id=&quot;meeting-document&quot;&gt;Meeting document&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/Docs.png&quot; alt=&quot;title&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;user-research&quot;&gt;User Research&lt;/h2&gt;
+&lt;p&gt;In 5th week, we did Youtube user research. First, we sent questionnaires to team member’s friends. A total 117 people participated in this survey. Next, we went to Westfield and wework offices for user research.&lt;/p&gt;
+
+&lt;p&gt;We did not know what to do at first, but people were kinder than we thought, so once we started, we could easily go on.
+A total 20 people accepted our servey. It was very exciting experience!! It would have been better if there was more time.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Waiting for survey
+&lt;img src=&quot;/assets/img/research1.JPG&quot; alt=&quot;title&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Participants in the survey
+&lt;img src=&quot;/assets/img/research2.png&quot; alt=&quot;title&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;prototypedesigned-by-hyeonggeun&quot;&gt;Prototype(designed by Hyeonggeun)&lt;/h2&gt;
+&lt;p&gt;Create a group. We have 3 methods to invite members&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Input member’s google account
+&lt;img src=&quot;/assets/img/Prototype1.png&quot; alt=&quot;title&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Connecting with Google Group
+&lt;img src=&quot;/assets/img/Prototype2.png&quot; alt=&quot;title&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Sharing invitation link
+&lt;img src=&quot;/assets/img/Prototype3.png&quot; alt=&quot;title&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Initial screen when first created group
+&lt;img src=&quot;/assets/img/Prototype4.png&quot; alt=&quot;title&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If many members share their videos, Playlist can be expanded. (Categories are created automatically by YouTube’s classfication)
+&lt;img src=&quot;/assets/img/Prototype5.png&quot; alt=&quot;title&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;You can even watch food videos and share recipes using Google Docs.
+&lt;img src=&quot;/assets/img/Prototype6.png&quot; alt=&quot;title&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Video with applied application has applied app’s icons beside title.
+&lt;img src=&quot;/assets/img/Prototype7.png&quot; alt=&quot;title&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;For travel videos, you can mark group’s Google Map and post comments to share your experiences with group members.
+&lt;img src=&quot;/assets/img/Prototype8.png&quot; alt=&quot;title&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;presentation-in-youtube10feb-2018&quot;&gt;Presentation in YouTube(10.Feb 2018)&lt;/h2&gt;
+&lt;p&gt;Finally, the day had to come!
+We went to YouTube and showed our efforts until now. Presentation time was 20 minutes composed of pitch 15 minutes and prototype 5 minutes.&lt;/p&gt;
+
+&lt;p&gt;The team was very nervous because it was done in front of current developers, but the announcement was pretty well done.
+The mentors’ questions were too sharp and pointed out areas we had not thought of before. After completing the difficult questions, a big applause and laughter burst out in the hall, and our team was able to smile.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Each member’s presentation
+ &lt;img src=&quot;/assets/img/presentation.png&quot; alt=&quot;title&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Mentors and mentees listening to presentations
+ &lt;img src=&quot;/assets/img/listeners.JPG&quot; alt=&quot;title&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;After presentation, they could smile.. :)
+ &lt;img src=&quot;/assets/img/after_presentation.jpg&quot; alt=&quot;title&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;review&quot;&gt;REVIEW&lt;/h2&gt;
+&lt;dl&gt;
+    &lt;dt&gt;Seungwoo Jeong&lt;/dt&gt;
+        &lt;dd&gt;It was a moment when I thought about when I could try this experience in my life. 
+It was so exciting before the presentation, and there was a lot of regret after the presentation was over. I was not able to answer the questions of the mentor's sharp questions, but I thought that I could turn the answer of the question into a better idea. It was a precious experience and it was an unforgettable memory. Thank you so much to my team members also!&lt;/dd&gt;
+    &lt;dt&gt;Minjun Cha&lt;/dt&gt;
+        &lt;dd&gt;It was a dream come true to be able to suggest our team's ideas directly to YouTube. It seems to have learned various things. Based on the advice of mentors, we would like to develop our ideas and apply them to YouTube. Thank you to the mentors who listened earnestly and asked sharp questions.&lt;/dd&gt;
+    &lt;dt&gt;Seunghwan Hong&lt;/dt&gt;
+        &lt;dd&gt;It was great experience for pitching our own idea in front of YouTube staff engineer! Whether our product is worth to YouTube, mentors were so kind for feeding some suggetions back to us. Thanks to mentors for listening our speech!&lt;/dd&gt;
+    &lt;dt&gt;Hyeonggeun Eom&lt;/dt&gt;
+        &lt;dd&gt;As an idea pitch leader, I was very much burdened and worried. But our team did well and I am very proud. The process of drawing ideas was so much fun, and it was so excited to go out and do the research. I made the prototype for the first time, I was surprised to see myself doing better than I thought, and I thought that this area is very interesting. Presentation in English was the most difficult. I think I could have made a better presentation. I am very grateful to the mentors who made this opportunity.&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Teamname&lt;/strong&gt; : Quadcore&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Leader&lt;/strong&gt; : Hyeonggeun Eom&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Team Quadcore</name></author><category term="Idea Pitch" /><summary type="html">The beginning of Idea Pitch It was so excited just to listen. We couldn’t believe we have a chance to make a presentation to the developers at the best companies. We received a list of companies that we could present ideas. Companies Google Maps Google NBU(Next Billion Users) Youtube Facebook We thought a lot about selecting a company. All companies have a clear direction and high scalability. In the end, we chose YouTube, which we use often and the user’s inconvenience was relatively clear. Planning 1st week(1.2~1.6) : Survey of each of the four companies 2nd week(1.8~1.12) : Select a company 3nd week(1.15~1.19) : Derive Ideas 4th week(1.22~1.26) : Refine ideas 5th week(1.29~2.2) : User market research (questionnaire, interview) 6th week(2.5~2.9) : Make Prototype 7th week(2.12~2.14) : Presentation Many meetings We had one or two weekly meetings. We think it is most important to conceive ideas, so the first month was only for meetings. Initially, the meeting was about whether to present ideas for resolving the inconvenience of YouTube users, or for adding new features. New Feature But, resolving the inconvenience is too hard and we thought Youtube had already tried a lot. We focused on finding new feature. After many meetings, we could derive that our common need is convenient sharing. So, we suggested YouTube Group Previous sharing is done by passing the Url to the SNS when sharing the video. We thought it would be easy to create a Group on YouTube. If one member share a video, the rest can watch it in a group playlist. Special feature is that you can add applications to shared videos within a group, not just a simple share. For example, If you are watching a study video, you can add applications like Google Docs. Then you will see the video on the left and Docs on the right. And next time another member of the same group watches the video, he can see the lecture notes one member has written. belows are our meeting documents until now. Meeting document User Research In 5th week, we did Youtube user research. First, we sent questionnaires to team member’s friends. A total 117 people participated in this survey. Next, we went to Westfield and wework offices for user research. We did not know what to do at first, but people were kinder than we thought, so once we started, we could easily go on. A total 20 people accepted our servey. It was very exciting experience!! It would have been better if there was more time. Waiting for survey Participants in the survey Prototype(designed by Hyeonggeun) Create a group. We have 3 methods to invite members Input member’s google account Connecting with Google Group Sharing invitation link Initial screen when first created group If many members share their videos, Playlist can be expanded. (Categories are created automatically by YouTube’s classfication) You can even watch food videos and share recipes using Google Docs. Video with applied application has applied app’s icons beside title. For travel videos, you can mark group’s Google Map and post comments to share your experiences with group members. Presentation in YouTube(10.Feb 2018) Finally, the day had to come! We went to YouTube and showed our efforts until now. Presentation time was 20 minutes composed of pitch 15 minutes and prototype 5 minutes. The team was very nervous because it was done in front of current developers, but the announcement was pretty well done. The mentors’ questions were too sharp and pointed out areas we had not thought of before. After completing the difficult questions, a big applause and laughter burst out in the hall, and our team was able to smile. Each member’s presentation Mentors and mentees listening to presentations After presentation, they could smile.. :) REVIEW Seungwoo Jeong It was a moment when I thought about when I could try this experience in my life. It was so exciting before the presentation, and there was a lot of regret after the presentation was over. I was not able to answer the questions of the mentor's sharp questions, but I thought that I could turn the answer of the question into a better idea. It was a precious experience and it was an unforgettable memory. Thank you so much to my team members also! Minjun Cha It was a dream come true to be able to suggest our team's ideas directly to YouTube. It seems to have learned various things. Based on the advice of mentors, we would like to develop our ideas and apply them to YouTube. Thank you to the mentors who listened earnestly and asked sharp questions. Seunghwan Hong It was great experience for pitching our own idea in front of YouTube staff engineer! Whether our product is worth to YouTube, mentors were so kind for feeding some suggetions back to us. Thanks to mentors for listening our speech! Hyeonggeun Eom As an idea pitch leader, I was very much burdened and worried. But our team did well and I am very proud. The process of drawing ideas was so much fun, and it was so excited to go out and do the research. I made the prototype for the first time, I was surprised to see myself doing better than I thought, and I thought that this area is very interesting. Presentation in English was the most difficult. I think I could have made a better presentation. I am very grateful to the mentors who made this opportunity. Teamname : Quadcore Leader : Hyeonggeun Eom</summary></entry><entry><title type="html">Icecream Museum</title><link href="http://localhost:4000/sv%20experiences/2018/01/21/ice-cream-museum.html" rel="alternate" type="text/html" title="Icecream Museum" /><published>2018-01-21T00:00:00-08:00</published><updated>2018-01-21T00:00:00-08:00</updated><id>http://localhost:4000/sv%20experiences/2018/01/21/ice-cream-museum</id><content type="html" xml:base="http://localhost:4000/sv%20experiences/2018/01/21/ice-cream-museum.html">&lt;p&gt;&lt;img src=&quot;/assets/img/ice2.JPG&quot; alt=&quot;Alt text&quot; /&gt;
+&lt;img src=&quot;/assets/img/ice3.JPG&quot; alt=&quot;Alt text&quot; /&gt;
+&lt;img src=&quot;/assets/img/ice4.JPG&quot; alt=&quot;Alt text&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;wonderful-colors-and-arts-in-ice-cream-museum&quot;&gt;Wonderful colors and arts in Ice cream Museum.&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;The museum of ICE CREAM is the place where ideas are transformed into real life experiences a place where flavors are mysteries, toppings are toys and sprinkles make the world a better place. Their mission is to design environments that bring people together &amp;amp; provoke imagination.
+ &lt;a href=&quot;https://www.museumoficecream.com/about/&quot;&gt;More about Ice cream museum&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;review&quot;&gt;REVIEW&lt;/h2&gt;
+&lt;dl&gt;
+    &lt;dt&gt;Seungwoo Jeong&lt;/dt&gt;
+        &lt;dd&gt;What a colorful world! My favorite color is yellow and pink, so I wear yellow &amp;amp; pink flower dress to go ice cream museum. Everything was soooooo amazing and beautiful. The best museum I’ve ever been.  
+    &lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Teamname&lt;/strong&gt; : Quadcore&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Leader&lt;/strong&gt; : Seungwoo Jeong&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Team Quadcore</name></author><category term="SV Experiences" /><summary type="html">Wonderful colors and arts in Ice cream Museum. The museum of ICE CREAM is the place where ideas are transformed into real life experiences a place where flavors are mysteries, toppings are toys and sprinkles make the world a better place. Their mission is to design environments that bring people together &amp;amp; provoke imagination. More about Ice cream museum REVIEW Seungwoo Jeong What a colorful world! My favorite color is yellow and pink, so I wear yellow &amp;amp; pink flower dress to go ice cream museum. Everything was soooooo amazing and beautiful. The best museum I’ve ever been. Teamname : Quadcore Leader : Seungwoo Jeong</summary></entry><entry><title type="html">Interview with Seungwoo Lee @ Facebook Software Engineer</title><link href="http://localhost:4000/tech%20talk/2018/01/20/techtalk-3.html" rel="alternate" type="text/html" title="Interview with Seungwoo Lee @ Facebook Software Engineer" /><published>2018-01-20T00:00:00-08:00</published><updated>2018-01-20T00:00:00-08:00</updated><id>http://localhost:4000/tech%20talk/2018/01/20/techtalk-3</id><content type="html" xml:base="http://localhost:4000/tech%20talk/2018/01/20/techtalk-3.html">&lt;h1 id=&quot;q1&quot;&gt;Q1.&lt;/h1&gt;
+
+&lt;p&gt;Unlike other companies in Silicon Valley, Uber has been told that there is discriminatory treatment for women. Basically, in a company with such a perception, is it necessary for a female engineer to survive in a company other than a skillful one?&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;It seems that CEOs should consider equal culture. Uber CEO did not. In fact, it is the driving force of Uber’s success. Now, such a trend is changing a lot.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;q2&quot;&gt;Q2.&lt;/h1&gt;
+
+&lt;p&gt;I saw you worked as a web developer in Columbia University in the City of New York, What did you do as a web developer in graduate school?&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I created a website that uses the Django framework to tell me what’s bird by taking bird photos and uploading them. I did not sleep much.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;q3&quot;&gt;Q3.&lt;/h1&gt;
+
+&lt;p&gt;You’ve been on Facebook for four months, Have you ever felt totally seperated culture which can only found in Facebook?&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Both Uber and Facebook are fast moving and competing cultures.
+The difference is that Uber is a culture that kills each other, and Facebook is a culture of good competition.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;q4&quot;&gt;Q4.&lt;/h1&gt;
+
+&lt;p&gt;After 3 years in Korea, you went to US. What is the pros and cons of Korean corporate culture and American corporate culture?&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Korea puts an emphasis on working hard together, and the United States places emphasis on results (whether individuals or teams)
+If you can not do it in Korea, you will get soul on the spot and release it later.
+If you do not do it in the US, you will lose your job and give it to someone else.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;q5&quot;&gt;Q5.&lt;/h1&gt;
+
+&lt;p&gt;One of the corporate cultures on Facebook is that they often change teams. What do you think about the pros and cons of this culture?&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;On Facebook, it’s important to make the product fast. Anyone should be able to do something else tomorrow. There is an opportunity to learn about what to do with the team to move. There is a learning center in the company, and it is the culture that learns while helping each other in the team.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;q6&quot;&gt;Q6.&lt;/h1&gt;
+
+&lt;p&gt;What is the difference between American and Korean welfare?&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;In the US, company support a variety of things inside the company, so we can not go out of the company.
+It is not easy to turnover in Korea, so the company does not put much effort into the welfare.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;review&quot;&gt;REVIEW&lt;/h2&gt;
+&lt;dl&gt;
+    &lt;dt&gt;Seungwoo Jeong&lt;/dt&gt;
+        &lt;dd&gt;It was good time to hear various company culture, and differences between Korean and US company style.&lt;/dd&gt;
+    &lt;dt&gt;Minjun Cha&lt;/dt&gt;
+        &lt;dd&gt;It was an interesting interview.
+        Where can I hear about corporate culture?
+        Even IBM, Uber, Facebook ... it was significant.
+        It was exciting to hear about the culture of each company in detail. The current job is to show you the results in five years, and you're asking me to catch the goal five years later, and I'll be studying in Silicon Valley five years later!&lt;/dd&gt;
+    &lt;dt&gt;Seunghwan Hong&lt;/dt&gt;
+        &lt;dd&gt;It was good experience to listening Silicon Valley’s overall culture, especially Facebook’s. Now I’m eager to find job in here :)&lt;/dd&gt;
+    &lt;dt&gt;Hyeonggeun Eom&lt;/dt&gt;
+        &lt;dd&gt;He is the one who lives the life I want to live. He was the first person to go the way I wanted to go, so I had a lot of questions and time was short.&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Teamname&lt;/strong&gt; : Quadcore&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Leader&lt;/strong&gt; : Minjun Cha&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Team Quadcore</name></author><category term="Tech Talk" /><summary type="html">Q1. Unlike other companies in Silicon Valley, Uber has been told that there is discriminatory treatment for women. Basically, in a company with such a perception, is it necessary for a female engineer to survive in a company other than a skillful one? It seems that CEOs should consider equal culture. Uber CEO did not. In fact, it is the driving force of Uber’s success. Now, such a trend is changing a lot. Q2. I saw you worked as a web developer in Columbia University in the City of New York, What did you do as a web developer in graduate school? I created a website that uses the Django framework to tell me what’s bird by taking bird photos and uploading them. I did not sleep much. Q3. You’ve been on Facebook for four months, Have you ever felt totally seperated culture which can only found in Facebook? Both Uber and Facebook are fast moving and competing cultures. The difference is that Uber is a culture that kills each other, and Facebook is a culture of good competition. Q4. After 3 years in Korea, you went to US. What is the pros and cons of Korean corporate culture and American corporate culture? Korea puts an emphasis on working hard together, and the United States places emphasis on results (whether individuals or teams) If you can not do it in Korea, you will get soul on the spot and release it later. If you do not do it in the US, you will lose your job and give it to someone else. Q5. One of the corporate cultures on Facebook is that they often change teams. What do you think about the pros and cons of this culture? On Facebook, it’s important to make the product fast. Anyone should be able to do something else tomorrow. There is an opportunity to learn about what to do with the team to move. There is a learning center in the company, and it is the culture that learns while helping each other in the team. Q6. What is the difference between American and Korean welfare? In the US, company support a variety of things inside the company, so we can not go out of the company. It is not easy to turnover in Korea, so the company does not put much effort into the welfare. REVIEW Seungwoo Jeong It was good time to hear various company culture, and differences between Korean and US company style. Minjun Cha It was an interesting interview. Where can I hear about corporate culture? Even IBM, Uber, Facebook ... it was significant. It was exciting to hear about the culture of each company in detail. The current job is to show you the results in five years, and you're asking me to catch the goal five years later, and I'll be studying in Silicon Valley five years later! Seunghwan Hong It was good experience to listening Silicon Valley’s overall culture, especially Facebook’s. Now I’m eager to find job in here :) Hyeonggeun Eom He is the one who lives the life I want to live. He was the first person to go the way I wanted to go, so I had a lot of questions and time was short. Teamname : Quadcore Leader : Minjun Cha</summary></entry><entry><title type="html">Golden Gate Bridge Bike Tour</title><link href="http://localhost:4000/sv%20experiences/2018/01/20/goldengate.html" rel="alternate" type="text/html" title="Golden Gate Bridge Bike Tour" /><published>2018-01-20T00:00:00-08:00</published><updated>2018-01-20T00:00:00-08:00</updated><id>http://localhost:4000/sv%20experiences/2018/01/20/goldengate</id><content type="html" xml:base="http://localhost:4000/sv%20experiences/2018/01/20/goldengate.html">&lt;p&gt;&lt;img src=&quot;/assets/img/golden.jpg&quot; alt=&quot;Alt text&quot; /&gt;
+&lt;img src=&quot;/assets/img/golden2.JPG&quot; alt=&quot;Alt text&quot; /&gt;
+&lt;img src=&quot;/assets/img/golden3.JPG&quot; alt=&quot;Alt text&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;bike-tour-from-fishermans-wharf-to-sausalito&quot;&gt;Bike tour From Fisherman’s Wharf to Sausalito&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;This is the thing that you must do in SF. Weather, wind, view, and Golden gate bridge was just perfect. It’s the one you can experience only in Sausalito. The night view of San Francisco from Sausalito was also beautiful. I strongly recommend this!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;tips&quot;&gt;Tips&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Restaurant : Napa Valley Burger Company&lt;/li&gt;
+    &lt;li&gt;Bike rental fee : $32 (Online Reservations Receive 20% Off =&amp;gt; $25 )&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://baycitybike.com/&quot;&gt;Refer this link to book bike&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;Ferry ticket : $12&lt;/li&gt;
+    &lt;li&gt;From Sausalito to Sanfrancisco, you should buy a ticket first, and line up about an hour before you can get on. Waiting line is really long, if you don’t you couldn’t ride a ferry.&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;review&quot;&gt;REVIEW&lt;/h2&gt;
+&lt;dl&gt;
+    &lt;dt&gt;Seungwoo Jeong&lt;/dt&gt;
+        &lt;dd&gt;While riding a bicycle and listening to music, my thoughts are organized. I will never forget the moment when I cross the Golden Gate Bridge while looking at the Pacific Ocean. It can not be explained. Best Experience in SF.
+    &lt;/dd&gt;
+    &lt;dt&gt;Minjun Cha&lt;/dt&gt;
+        &lt;dd&gt;It was the best experience I have had in the United States. It took longer than I thought to ride a bicycle. But I could see the magnificent view and the big Golden Gate Bridge. It was really really great.
+        &lt;/dd&gt;
+    &lt;dt&gt;Seunghwan Hong&lt;/dt&gt;
+        &lt;dd&gt;It was like imagination. View over the bridge, lovely houses in Sausalito… Literally best experience I ever had in San Francisco. Period.
+        &lt;/dd&gt;
+    &lt;dt&gt;Hyeonggeun Eom&lt;/dt&gt;
+        &lt;dd&gt;I can be sure that this experience is one of the best experiences I've had in a month. I was so surprised to actually see the Golden Gate, which I was only seeing in pictures. The scenery around Sausalito and Golden Gate could not be photographed. What can i did is bringing everything in my heart.
+        &lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Teamname&lt;/strong&gt; : Quadcore&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Leader&lt;/strong&gt; : Seungwoo Jeong&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Team Quadcore</name></author><category term="SV Experiences" /><summary type="html">Bike tour From Fisherman’s Wharf to Sausalito This is the thing that you must do in SF. Weather, wind, view, and Golden gate bridge was just perfect. It’s the one you can experience only in Sausalito. The night view of San Francisco from Sausalito was also beautiful. I strongly recommend this! Tips Restaurant : Napa Valley Burger Company Bike rental fee : $32 (Online Reservations Receive 20% Off =&amp;gt; $25 ) Refer this link to book bike Ferry ticket : $12 From Sausalito to Sanfrancisco, you should buy a ticket first, and line up about an hour before you can get on. Waiting line is really long, if you don’t you couldn’t ride a ferry. REVIEW Seungwoo Jeong While riding a bicycle and listening to music, my thoughts are organized. I will never forget the moment when I cross the Golden Gate Bridge while looking at the Pacific Ocean. It can not be explained. Best Experience in SF. Minjun Cha It was the best experience I have had in the United States. It took longer than I thought to ride a bicycle. But I could see the magnificent view and the big Golden Gate Bridge. It was really really great. Seunghwan Hong It was like imagination. View over the bridge, lovely houses in Sausalito… Literally best experience I ever had in San Francisco. Period. Hyeonggeun Eom I can be sure that this experience is one of the best experiences I've had in a month. I was so surprised to actually see the Golden Gate, which I was only seeing in pictures. The scenery around Sausalito and Golden Gate could not be photographed. What can i did is bringing everything in my heart. Teamname : Quadcore Leader : Seungwoo Jeong</summary></entry><entry><title type="html">IBM Full Stack Web Developer Intro</title><link href="http://localhost:4000/sv%20experiences/2018/01/18/ibm-meet-up.html" rel="alternate" type="text/html" title="IBM Full Stack Web Developer Intro" /><published>2018-01-18T00:00:00-08:00</published><updated>2018-01-18T00:00:00-08:00</updated><id>http://localhost:4000/sv%20experiences/2018/01/18/ibm-meet-up</id><content type="html" xml:base="http://localhost:4000/sv%20experiences/2018/01/18/ibm-meet-up.html">&lt;p&gt;&lt;img src=&quot;/assets/img/ibm.JPG&quot; alt=&quot;Alt text&quot; /&gt;
+&lt;img src=&quot;/assets/img/ibm2.JPG&quot; alt=&quot;Alt text&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;learn-more-about-the-fundamentals-of-full-stack-web-development&quot;&gt;Learn more about the fundamentals of Full-Stack Web Development.&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;What is the front end, and how does it compare to the back end? What is the client-server model, and why is this important? What are APIs, why are they important, and how do I make an API call? What is JSON, how do I use it, and why is it important? How computers communicate over the web, using the request response paradigm. How do I get started working on my own web app? You can get all answers of these from this meet-up!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;review&quot;&gt;REVIEW&lt;/h2&gt;
+&lt;dl&gt;
+    &lt;dt&gt;Seungwoo Jeong&lt;/dt&gt;
+        &lt;dd&gt;Good time to understand what full stack developer is and request &amp;amp; response between server and client. I was a little disappointed that I did not practice what I learned because meet-up was just for an hour.
+    &lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Teamname&lt;/strong&gt; : Quadcore&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Leader&lt;/strong&gt; : Seungwoo Jeong&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Team Quadcore</name></author><category term="SV Experiences" /><summary type="html">Learn more about the fundamentals of Full-Stack Web Development. What is the front end, and how does it compare to the back end? What is the client-server model, and why is this important? What are APIs, why are they important, and how do I make an API call? What is JSON, how do I use it, and why is it important? How computers communicate over the web, using the request response paradigm. How do I get started working on my own web app? You can get all answers of these from this meet-up! REVIEW Seungwoo Jeong Good time to understand what full stack developer is and request &amp;amp; response between server and client. I was a little disappointed that I did not practice what I learned because meet-up was just for an hour. Teamname : Quadcore Leader : Seungwoo Jeong</summary></entry><entry><title type="html">Stanford University Tour</title><link href="http://localhost:4000/sv%20experiences/2018/01/14/stanford-tour.html" rel="alternate" type="text/html" title="Stanford University Tour" /><published>2018-01-14T00:00:00-08:00</published><updated>2018-01-14T00:00:00-08:00</updated><id>http://localhost:4000/sv%20experiences/2018/01/14/stanford-tour</id><content type="html" xml:base="http://localhost:4000/sv%20experiences/2018/01/14/stanford-tour.html">&lt;p&gt;&lt;img src=&quot;/assets/img/stanford.jpg&quot; alt=&quot;Alt text&quot; /&gt;
+&lt;img src=&quot;/assets/img/stanford2.JPG&quot; alt=&quot;Alt text&quot; /&gt;
+&lt;img src=&quot;/assets/img/stanford3.JPG&quot; alt=&quot;Alt text&quot; /&gt;
+&lt;img src=&quot;/assets/img/stanford4.JPG&quot; alt=&quot;Alt text&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;we-went-to-stanford-on-the-caltrain&quot;&gt;We went to Stanford on the Caltrain,&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;and had lunch at Curry house (recommended by Donghyun mentor). After lunch we drank mint mojito of philz coffee and that was really unique and nice. We walked around Stanford campus and saw Rodin’s collection.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;our-route&quot;&gt;Our Route&lt;/h2&gt;
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Curry up now &amp;gt; Philz coffee &amp;gt; Stanford University &amp;gt; Stanford shopping center&lt;/code&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;tips&quot;&gt;Tips&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Restaurant : Curry up now
+Caltrain has to take a card when you get off. 
+Dispense interval is really long, so you should check.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;review&quot;&gt;REVIEW&lt;/h2&gt;
+&lt;dl&gt;
+    &lt;dt&gt;Seungwoo Jeong&lt;/dt&gt;
+        &lt;dd&gt;Campus was really huge!! Rodin collection and other work of art was fantastic. The most amazing thing was companies &amp;amp; government agencies in Job Fair for engineering. It includes YOUTUBE, MICROSOFT, DROPBOX, and IBM. I want to enter Stanford~~~
+    &lt;/dd&gt;
+    &lt;dt&gt;Minjun Cha&lt;/dt&gt;
+        &lt;dd&gt;Above all, I was really surprised at the size of a big university. I felt that this was the best university in the world. Originally, I was not interested in art, but the works I saw on rodin were fantastic. The weather was even better and I was happier.
+        &lt;/dd&gt;
+    &lt;dt&gt;Seunghwan Hong&lt;/dt&gt;
+        &lt;dd&gt;Stanford has many fascinating things! Huge campus, shopping center, and Cantor Art Center! Watching rodin collection was wonderful experience to me. Nice weather and nice coffee (Mint Mojito, from Philz!) makes me happy ;)
+        &lt;/dd&gt;
+    &lt;dt&gt;Hyeonggeun Eom&lt;/dt&gt;
+        &lt;dd&gt;It is not good to compare, but I was overwhelmed by the size and atmosphere of Stanford, which is so different from my school. I felt something new dream is blooming in me!
+        &lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Teamname&lt;/strong&gt; : Quadcore&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Leader&lt;/strong&gt; : Seungwoo Jeong&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Team Quadcore</name></author><category term="SV Experiences" /><summary type="html">We went to Stanford on the Caltrain, and had lunch at Curry house (recommended by Donghyun mentor). After lunch we drank mint mojito of philz coffee and that was really unique and nice. We walked around Stanford campus and saw Rodin’s collection. Our Route Curry up now &amp;gt; Philz coffee &amp;gt; Stanford University &amp;gt; Stanford shopping center Tips Restaurant : Curry up now Caltrain has to take a card when you get off. Dispense interval is really long, so you should check. REVIEW Seungwoo Jeong Campus was really huge!! Rodin collection and other work of art was fantastic. The most amazing thing was companies &amp;amp; government agencies in Job Fair for engineering. It includes YOUTUBE, MICROSOFT, DROPBOX, and IBM. I want to enter Stanford~~~ Minjun Cha Above all, I was really surprised at the size of a big university. I felt that this was the best university in the world. Originally, I was not interested in art, but the works I saw on rodin were fantastic. The weather was even better and I was happier. Seunghwan Hong Stanford has many fascinating things! Huge campus, shopping center, and Cantor Art Center! Watching rodin collection was wonderful experience to me. Nice weather and nice coffee (Mint Mojito, from Philz!) makes me happy ;) Hyeonggeun Eom It is not good to compare, but I was overwhelmed by the size and atmosphere of Stanford, which is so different from my school. I felt something new dream is blooming in me! Teamname : Quadcore Leader : Seungwoo Jeong</summary></entry><entry><title type="html">Interview with David Lee @ Google Interaction Designer</title><link href="http://localhost:4000/tech%20talk/2018/01/13/techtalk-2.html" rel="alternate" type="text/html" title="Interview with David Lee @ Google Interaction Designer" /><published>2018-01-13T00:00:00-08:00</published><updated>2018-01-13T00:00:00-08:00</updated><id>http://localhost:4000/tech%20talk/2018/01/13/techtalk-2</id><content type="html" xml:base="http://localhost:4000/tech%20talk/2018/01/13/techtalk-2.html">&lt;h1 id=&quot;q1&quot;&gt;Q1.&lt;/h1&gt;
+
+&lt;p&gt;What are the advantages and disadvantages of having to leave the company so fast that you have not worked in the company for more than three years?&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;There are many advantages to learning and not tired.
+Disadvantages are difficulties in promotion, and it takes a lot of energy to turnover.
+In Google, it’s good to encourage other hobbies.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;q2&quot;&gt;Q2.&lt;/h1&gt;
+
+&lt;p&gt;In developing process, which experience is the most severe conflict experience? And why?&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Clashes occur every hour almost every day.
+Documentation about collisions is important.
+The smarter the person, the more frequent the conflict.
+I try to find a solution by creating a prototype and showing it.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;q3&quot;&gt;Q3.&lt;/h1&gt;
+
+&lt;p&gt;In the case of software engineer, there is a standardized form of Interview. For the UX designer, how does interview work?&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;There is a separate UX recuriter. They mainly look at resume and portfolio. Once the resume passes, you will conduct a telephone interview with the designers. They see if your project is true or not, and they also take a design test. Ask about what you did best in one project.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;q4&quot;&gt;Q4.&lt;/h1&gt;
+
+&lt;p&gt;If there is an engineer interested in UX/UI, what should he prepare to become a designer?&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;It is important to see from the standpoint of others.
+Focus on what you do best.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;q5&quot;&gt;Q5.&lt;/h1&gt;
+
+&lt;p&gt;UX also seems to be able to discuss successes and failures. How can you define failures in UX?&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Failure without learning is failure.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;q6&quot;&gt;Q6.&lt;/h1&gt;
+
+&lt;p&gt;I would like to hear about David Lee’s prototype design method, which is one of the best prototypes. Also, each method is important, but what do you usually use the most?&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I think about how you can get a pass without doing the most work. Anyway, what I made is a one-time thing, so I do not spend much time and proceed with speedy. When I create a prototype and show it to users, I change it if there is an error.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;q7&quot;&gt;Q7.&lt;/h1&gt;
+
+&lt;p&gt;It is written in a letter of recommendation that you are very creative and fresh, so how do you get inspiration for such ideas and how do you envision them?&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I have been trained and practiced for creative and fresh ideas. Believe in yourself. It’s a good idea to keep thinking where you are. Whatever you do, you have to be happy. Ask questions about users as prototypes.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;q8&quot;&gt;Q8.&lt;/h1&gt;
+
+&lt;p&gt;What was the difficulty of changing as an UX Designer when you started as a web designer and programmer?&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;What people around you do not know.
+Acting like an UX designer.
+Weak visual.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;q9&quot;&gt;Q9.&lt;/h1&gt;
+
+&lt;p&gt;It is difficult to get recognition from others. Your Linked-in profile is full of praise for you from people who worked with you. What is the secret to becoming a person you want to work with?&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Sincerity and commitment are important.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;q10&quot;&gt;Q10.&lt;/h1&gt;
+
+&lt;p&gt;I think there isn’t any jobs that is as sensitive to user reviews as UX Designer. I’m wondering specifically how you can get user reviews.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;There are ways to pay for reviews and to call users and test them. For exmaple, Internal/External, Onsite/Offsite, Survey/Focus Croup, Usability testing, Forum / Rating Survey.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;review&quot;&gt;REVIEW&lt;/h2&gt;
+&lt;dl&gt;
+    &lt;dt&gt;Seungwoo Jeong&lt;/dt&gt;
+        &lt;dd&gt;What is prototype?, What do UX designer do?, all the questions were solved and I got interested in the UX designer after hearing his story.&lt;/dd&gt;
+    &lt;dt&gt;Minjun Cha&lt;/dt&gt;
+        &lt;dd&gt;For me, the prototype was a very unfamiliar job. I heard about the best experts in the field, and I felt 'It is a very interesting world'. I wanted to live like him in Silicon Valley later on. I will study in my heart with the words that failure without learning is failure.&lt;/dd&gt;
+    &lt;dt&gt;Seunghwan Hong&lt;/dt&gt;
+        &lt;dd&gt;UX engineering was my interested field. I earned so many good know-hows for building career of UX engineer!&lt;/dd&gt;
+    &lt;dt&gt;Hyeonggeun Eom&lt;/dt&gt;
+        &lt;dd&gt;David was a much cooler man than I had heard. It was so nice to live as he wanted, and the attitude of not afraid of new challenges was so cool. The lecture on the prototype was really perfect.&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Teamname&lt;/strong&gt; : Quadcore&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Leader&lt;/strong&gt; : Minjun Cha&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Team Quadcore</name></author><category term="Tech Talk" /><summary type="html">Q1. What are the advantages and disadvantages of having to leave the company so fast that you have not worked in the company for more than three years? There are many advantages to learning and not tired. Disadvantages are difficulties in promotion, and it takes a lot of energy to turnover. In Google, it’s good to encourage other hobbies. Q2. In developing process, which experience is the most severe conflict experience? And why? Clashes occur every hour almost every day. Documentation about collisions is important. The smarter the person, the more frequent the conflict. I try to find a solution by creating a prototype and showing it. Q3. In the case of software engineer, there is a standardized form of Interview. For the UX designer, how does interview work? There is a separate UX recuriter. They mainly look at resume and portfolio. Once the resume passes, you will conduct a telephone interview with the designers. They see if your project is true or not, and they also take a design test. Ask about what you did best in one project. Q4. If there is an engineer interested in UX/UI, what should he prepare to become a designer? It is important to see from the standpoint of others. Focus on what you do best. Q5. UX also seems to be able to discuss successes and failures. How can you define failures in UX? Failure without learning is failure. Q6. I would like to hear about David Lee’s prototype design method, which is one of the best prototypes. Also, each method is important, but what do you usually use the most? I think about how you can get a pass without doing the most work. Anyway, what I made is a one-time thing, so I do not spend much time and proceed with speedy. When I create a prototype and show it to users, I change it if there is an error. Q7. It is written in a letter of recommendation that you are very creative and fresh, so how do you get inspiration for such ideas and how do you envision them? I have been trained and practiced for creative and fresh ideas. Believe in yourself. It’s a good idea to keep thinking where you are. Whatever you do, you have to be happy. Ask questions about users as prototypes. Q8. What was the difficulty of changing as an UX Designer when you started as a web designer and programmer? What people around you do not know. Acting like an UX designer. Weak visual. Q9. It is difficult to get recognition from others. Your Linked-in profile is full of praise for you from people who worked with you. What is the secret to becoming a person you want to work with? Sincerity and commitment are important. Q10. I think there isn’t any jobs that is as sensitive to user reviews as UX Designer. I’m wondering specifically how you can get user reviews. There are ways to pay for reviews and to call users and test them. For exmaple, Internal/External, Onsite/Offsite, Survey/Focus Croup, Usability testing, Forum / Rating Survey. REVIEW Seungwoo Jeong What is prototype?, What do UX designer do?, all the questions were solved and I got interested in the UX designer after hearing his story. Minjun Cha For me, the prototype was a very unfamiliar job. I heard about the best experts in the field, and I felt 'It is a very interesting world'. I wanted to live like him in Silicon Valley later on. I will study in my heart with the words that failure without learning is failure. Seunghwan Hong UX engineering was my interested field. I earned so many good know-hows for building career of UX engineer! Hyeonggeun Eom David was a much cooler man than I had heard. It was so nice to live as he wanted, and the attitude of not afraid of new challenges was so cool. The lecture on the prototype was really perfect. Teamname : Quadcore Leader : Minjun Cha</summary></entry><entry><title type="html">Work Like a Developer &amp;amp; Intro to Terminal &amp;amp; Git</title><link href="http://localhost:4000/sv%20experiences/2018/01/09/git-meet-up.html" rel="alternate" type="text/html" title="Work Like a Developer &amp; Intro to Terminal &amp; Git" /><published>2018-01-09T00:00:00-08:00</published><updated>2018-01-09T00:00:00-08:00</updated><id>http://localhost:4000/sv%20experiences/2018/01/09/git-meet-up</id><content type="html" xml:base="http://localhost:4000/sv%20experiences/2018/01/09/git-meet-up.html">&lt;p&gt;&lt;img src=&quot;/assets/img/rithm1.jpeg&quot; alt=&quot;Alt text&quot; /&gt;
 &lt;img src=&quot;/assets/img/rithm2.jpeg&quot; alt=&quot;Alt text&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;where&quot;&gt;Where&lt;/h3&gt;
@@ -82,7 +529,7 @@ origin : git sever repository
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;Teamname&lt;/strong&gt; : Quadcore&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Leader&lt;/strong&gt; : Seungwoo Jeong&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Team Quadcore</name></author><category term="SV Experiences" /><summary type="html">Where 3338 17th Street Suite 100, San Francisco, CA 94110 @rithmschool When Tue, Jan 9, 2018 at 6:30 PM We went to rithm school to learn git &amp;amp; terminal commands. Learn how developers work together and share code Become familiar with one of the most frequently used developer tools: the terminal Understand how to collaborate with developers using GitHub. 1. About terminal commands pwd : print working directory cd : change directory ls : all the files on folder ls -l / ls -al / ls - a cd / : move to root cd ~ : move to home mkdir hello : make directory find hello : really quick check touch first.txt : create a file cat first.txt : show contents in file echo : print the text echo hello &amp;gt; hello.txt echo Hello &amp;gt;&amp;gt; awesome.txt rm - rf : really delete! find hello : return file 2. About git commands git init &amp;gt; make a new repository git add . (Stage-green) git commit -m “Create hello.txt” [master (root-commit) 8094462] -&amp;gt; 8094462(identity) git log : check commit git remote add origin ssh address (.git) : address is too hard to remember , just use origin! git push -u origin master -u : setting up the upstream origin : git sever repository working (git add) &amp;gt; staging (git commit -m) &amp;gt; commit Git helps taking a picture, tracking out code, and retrieving code easily! REVIEW Seungwoo Jeong Even though I’m already familiar with git &amp;amp; terminal command, it was a nice opportunity to truly perfect the work flow with git. Not much hard to understand I could learn easily. First meet-up was perfect! I really expect the rest of meet-up. Hyeonggeun Eom fill it! Teamname : Quadcore Leader : Seungwoo Jeong</summary></entry><entry><title type="html">Interview with Soo Lee @ Google</title><link href="http://localhost:4000/tech%20talk/2018/01/06/techtalk-1.html" rel="alternate" type="text/html" title="Interview with Soo Lee @ Google" /><published>2018-01-06T00:00:00-08:00</published><updated>2018-01-06T00:00:00-08:00</updated><id>http://localhost:4000/tech%20talk/2018/01/06/techtalk-1</id><content type="html" xml:base="http://localhost:4000/tech%20talk/2018/01/06/techtalk-1.html">&lt;h1 id=&quot;q1&quot;&gt;Q1.&lt;/h1&gt;
+&lt;/ul&gt;</content><author><name>Team Quadcore</name></author><category term="SV Experiences" /><summary type="html">Where 3338 17th Street Suite 100, San Francisco, CA 94110 @rithmschool When Tue, Jan 9, 2018 at 6:30 PM We went to rithm school to learn git &amp;amp; terminal commands. Learn how developers work together and share code Become familiar with one of the most frequently used developer tools: the terminal Understand how to collaborate with developers using GitHub. 1. About terminal commands pwd : print working directory cd : change directory ls : all the files on folder ls -l / ls -al / ls - a cd / : move to root cd ~ : move to home mkdir hello : make directory find hello : really quick check touch first.txt : create a file cat first.txt : show contents in file echo : print the text echo hello &amp;gt; hello.txt echo Hello &amp;gt;&amp;gt; awesome.txt rm - rf : really delete! find hello : return file 2. About git commands git init &amp;gt; make a new repository git add . (Stage-green) git commit -m “Create hello.txt” [master (root-commit) 8094462] -&amp;gt; 8094462(identity) git log : check commit git remote add origin ssh address (.git) : address is too hard to remember , just use origin! git push -u origin master -u : setting up the upstream origin : git sever repository working (git add) &amp;gt; staging (git commit -m) &amp;gt; commit Git helps taking a picture, tracking out code, and retrieving code easily! REVIEW Seungwoo Jeong Even though I’m already familiar with git &amp;amp; terminal command, it was a nice opportunity to truly perfect the work flow with git. Not much hard to understand I could learn easily. First meet-up was perfect! I really expect the rest of meet-up. Hyeonggeun Eom fill it! Teamname : Quadcore Leader : Seungwoo Jeong</summary></entry><entry><title type="html">Interview With Soo Lee @ Google</title><link href="http://localhost:4000/tech%20talk/2018/01/06/techtalk-1.html" rel="alternate" type="text/html" title="Interview With Soo Lee @ Google" /><published>2018-01-06T00:00:00-08:00</published><updated>2018-01-06T00:00:00-08:00</updated><id>http://localhost:4000/tech%20talk/2018/01/06/techtalk-1</id><content type="html" xml:base="http://localhost:4000/tech%20talk/2018/01/06/techtalk-1.html">&lt;h1 id=&quot;q1&quot;&gt;Q1.&lt;/h1&gt;
 
 &lt;p&gt;What part of you do you think makes you hired in Google? What part of the interviewee do you see in detail if you are an interviewer?&lt;/p&gt;
 
@@ -139,8 +586,27 @@ Google is more dynamic than IBM because of age.&lt;/p&gt;
 &lt;blockquote&gt;
   &lt;p&gt;Most of the time, I will be interviewing the team I will be going to.
 Google and Facebook match a team after team meeting. They do not forcibly fill their team.&lt;/p&gt;
-&lt;/blockquote&gt;</content><author><name>Team Quadcore</name></author><category term="Tech Talk" /><summary type="html">Q1. What part of you do you think makes you hired in Google? What part of the interviewee do you see in detail if you are an interviewer? The person who perfoms good Phone and OnSite interview is the one with high priority. If the process of thinking is flexible, it is also strength of you. However, you should have no problem with personality. Q2. In Korea, Google Internship Recruit Program is now in progress. How is the recruitment of full-time employees after internships judged in major company like Google or IBM? Every company different, but in Google, how you did your job and OnSite interview are the conditions. Generally, conversion rate is 60% ~ 70%, so internships can be easy way to hire. Q3. After graduating from a Korean university, please let me know step by step what you have prepared to join a company in Silicon Valley. It began with a curiosity about the United States. I left my studies and went to PhD, but research did not fit my aptitude. I was interested in making service, so I dropped out and get a job. It would have been easier if I knew there was a way I could apply in Korea. Q4. Do major companies prefer full-stack engineers? Or prefer experts in one technical field? I would like to know many things deeply, but I recommend doing various things. Q5. What is the difference between Google and IBM’s way of working? The air is difference. Google is more dynamic than IBM because of age. Q6. Which type of awards are effective in hiring process in Google (e.g. ACM-ICPC)? ACM-ICPC, GitHub are effective in hiring process. There are recruiter who are only looking at open source. Q7. How do company decide what I do after joining a company and assigning a team? Most of the time, I will be interviewing the team I will be going to. Google and Facebook match a team after team meeting. They do not forcibly fill their team.</summary></entry><entry><title type="html">San Francisco Tour</title><link href="http://localhost:4000/sv%20experiences/2018/01/06/sv-sanfrancisco-tour.html" rel="alternate" type="text/html" title="San Francisco Tour" /><published>2018-01-06T00:00:00-08:00</published><updated>2018-01-06T00:00:00-08:00</updated><id>http://localhost:4000/sv%20experiences/2018/01/06/sv-sanfrancisco-tour</id><content type="html" xml:base="http://localhost:4000/sv%20experiences/2018/01/06/sv-sanfrancisco-tour.html">&lt;p&gt;&lt;img src=&quot;/assets/img/tour1.jpeg&quot; alt=&quot;Alt text&quot; /&gt;
-&lt;img src=&quot;/assets/img/tou2.jpeg&quot; alt=&quot;Alt text&quot; /&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;review&quot;&gt;REVIEW&lt;/h2&gt;
+&lt;dl&gt;
+    &lt;dt&gt;Seungwoo Jeong&lt;/dt&gt;
+        &lt;dd&gt;Really specific process for internship in Sillicon Valley! Every tips was helpful. I will write resume and apply for every internship!&lt;/dd&gt;
+    &lt;dt&gt;Minjun Cha&lt;/dt&gt;
+        &lt;dd&gt;It was very helpful to hear from her who had experienced a direct hiring process in Silicon Valley. I was respectful when I saw her detailing every detail.&lt;/dd&gt;
+    &lt;dt&gt;Seunghwan Hong&lt;/dt&gt;
+        &lt;dd&gt;Perfect answer for my own questions about HR interview! It was nice speech and I appreciate to her.&lt;/dd&gt;
+    &lt;dt&gt;Hyeonggeun Eom&lt;/dt&gt;
+        &lt;dd&gt;I was able to get a clear picture of Silicon Valley employment. In the following interview I heard exactly the answer to the question I had. The way to write a resume was very useful and I just wanted to write my resume quickly.&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Teamname&lt;/strong&gt; : Quadcore&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Leader&lt;/strong&gt; : Minjun Cha&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Team Quadcore</name></author><category term="Tech Talk" /><summary type="html">Q1. What part of you do you think makes you hired in Google? What part of the interviewee do you see in detail if you are an interviewer? The person who perfoms good Phone and OnSite interview is the one with high priority. If the process of thinking is flexible, it is also strength of you. However, you should have no problem with personality. Q2. In Korea, Google Internship Recruit Program is now in progress. How is the recruitment of full-time employees after internships judged in major company like Google or IBM? Every company different, but in Google, how you did your job and OnSite interview are the conditions. Generally, conversion rate is 60% ~ 70%, so internships can be easy way to hire. Q3. After graduating from a Korean university, please let me know step by step what you have prepared to join a company in Silicon Valley. It began with a curiosity about the United States. I left my studies and went to PhD, but research did not fit my aptitude. I was interested in making service, so I dropped out and get a job. It would have been easier if I knew there was a way I could apply in Korea. Q4. Do major companies prefer full-stack engineers? Or prefer experts in one technical field? I would like to know many things deeply, but I recommend doing various things. Q5. What is the difference between Google and IBM’s way of working? The air is difference. Google is more dynamic than IBM because of age. Q6. Which type of awards are effective in hiring process in Google (e.g. ACM-ICPC)? ACM-ICPC, GitHub are effective in hiring process. There are recruiter who are only looking at open source. Q7. How do company decide what I do after joining a company and assigning a team? Most of the time, I will be interviewing the team I will be going to. Google and Facebook match a team after team meeting. They do not forcibly fill their team. REVIEW Seungwoo Jeong Really specific process for internship in Sillicon Valley! Every tips was helpful. I will write resume and apply for every internship! Minjun Cha It was very helpful to hear from her who had experienced a direct hiring process in Silicon Valley. I was respectful when I saw her detailing every detail. Seunghwan Hong Perfect answer for my own questions about HR interview! It was nice speech and I appreciate to her. Hyeonggeun Eom I was able to get a clear picture of Silicon Valley employment. In the following interview I heard exactly the answer to the question I had. The way to write a resume was very useful and I just wanted to write my resume quickly. Teamname : Quadcore Leader : Minjun Cha</summary></entry><entry><title type="html">San Francisco Tour</title><link href="http://localhost:4000/sv%20experiences/2018/01/06/sv-sanfrancisco-tour.html" rel="alternate" type="text/html" title="San Francisco Tour" /><published>2018-01-06T00:00:00-08:00</published><updated>2018-01-06T00:00:00-08:00</updated><id>http://localhost:4000/sv%20experiences/2018/01/06/sv-sanfrancisco-tour</id><content type="html" xml:base="http://localhost:4000/sv%20experiences/2018/01/06/sv-sanfrancisco-tour.html">&lt;p&gt;&lt;img src=&quot;/assets/img/tour1.jpeg&quot; alt=&quot;Alt text&quot; /&gt;
+&lt;img src=&quot;/assets/img/tour2.jpeg&quot; alt=&quot;Alt text&quot; /&gt;
 &lt;img src=&quot;/assets/img/tour3.jpeg&quot; alt=&quot;Alt text&quot; /&gt;
 &lt;img src=&quot;/assets/img/tour4.jpeg&quot; alt=&quot;Alt text&quot; /&gt;
 &lt;img src=&quot;/assets/img/tour5.jpeg&quot; alt=&quot;Alt text&quot; /&gt;
@@ -177,44 +643,4 @@ Google and Facebook match a team after team meeting. They do not forcibly fill t
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;Teamname&lt;/strong&gt; : Quadcore&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Leader&lt;/strong&gt; : Seungwoo Jeong&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Team Quadcore</name></author><category term="SV Experiences" /><summary type="html">Local Market is held every weekend in front of Ferry Building. We visit it and taste some local food. After having lunch at Ziggy’s burger, we went to Coi tower and could see golden bridge &amp;amp; alcatraz because of the weather. There is the second largest Chinatown in Sanfrancisco. We felt like we are in China. It was a little tough day, but we had a good memory! Our route Ferry Building(Local Market) &amp;gt; Ziggy’s burger &amp;gt; Coi Tower &amp;gt; China Town REVIEW Seungwoo Jeong We was supposed to go meet-up , but most attendees are 50-60s. So we decide to hang out by ourselves. It was great choice. We walked and went around from Ferry building to Union Square, the distance was really long, but I felt so good cause I always sit and do Mvp project. It was good to refresh my mind! Minjun Cha was worried about the rain coming but the weather was very nice. We saw many local market in Ferry Building and experienced their atmosphere. Coi tower was very grand. It was hard to get there because it was too high. But it was nice experience. China town was an environment that made me misunderstand that I an in America. But I do not want to go again…. Seunghwan Hong Ferry Building was more beautiful as I expected. Nice weather and delicious food perfectly supported my nice day. Also Coi Tower was enough to capture my mind. It was very hard journey, but It was good to me for organizing my thoughts. It was nice day! Hyeonggeun Eom The beach near the Ferry Building was really good. The weather was good and everything was perfect! The road from Ferry Building to Coi tower was extremly high and difficult. But, the landscape of arriving made me think that i didn’t waste my sweat. Teamname : Quadcore Leader : Seungwoo Jeong</summary></entry><entry><title type="html">Team Quadcore, just assembled!</title><link href="http://localhost:4000/mvp%20bootcamp/2018/01/03/hello-hydeout.html" rel="alternate" type="text/html" title="Team Quadcore, just assembled!" /><published>2018-01-03T00:00:00-08:00</published><updated>2018-01-03T00:00:00-08:00</updated><id>http://localhost:4000/mvp%20bootcamp/2018/01/03/hello-hydeout</id><content type="html" xml:base="http://localhost:4000/mvp%20bootcamp/2018/01/03/hello-hydeout.html">&lt;p&gt;We just started our rocket engine here! ;)&lt;/p&gt;
-
-&lt;p&gt;Team Quadcore just launched our team blog.&lt;/p&gt;
-
-&lt;p&gt;We will post about four categories here: MVP Bootcamp, Tech talk, SV experience, Career advancement.&lt;/p&gt;
-
-&lt;p&gt;The theme of this blog is &lt;strong&gt;&lt;a href=&quot;https://github.com/fongandrew/hydeout&quot;&gt;Hydeout&lt;/a&gt;&lt;/strong&gt;. Hydeout updates the original &lt;a href=&quot;https://github.com/poole/hyde&quot;&gt;Hyde&lt;/a&gt; theme for &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; 3.x and adds new functionality.&lt;/p&gt;
-
-&lt;p&gt;Look forward to our future activities!&lt;/p&gt;</content><author><name>Team Quadcore</name></author><category term="MVP Bootcamp" /><summary type="html">We just started our rocket engine here! ;) Team Quadcore just launched our team blog. We will post about four categories here: MVP Bootcamp, Tech talk, SV experience, Career advancement. The theme of this blog is Hydeout. Hydeout updates the original Hyde theme for Jekyll 3.x and adds new functionality. Look forward to our future activities!</summary></entry><entry><title type="html">Visit Youtube in San Bruno</title><link href="http://localhost:4000/sv%20experiences/2017/12/29/visit-youtube.html" rel="alternate" type="text/html" title="Visit Youtube in San Bruno" /><published>2017-12-29T00:00:00-08:00</published><updated>2017-12-29T00:00:00-08:00</updated><id>http://localhost:4000/sv%20experiences/2017/12/29/visit-youtube</id><content type="html" xml:base="http://localhost:4000/sv%20experiences/2017/12/29/visit-youtube.html">&lt;p&gt;&lt;img src=&quot;/assets/img/youtube1.jpeg&quot; alt=&quot;Alt text&quot; /&gt;
-&lt;img src=&quot;/assets/img/youtube2.jpeg&quot; alt=&quot;Alt text&quot; /&gt;
-&lt;img src=&quot;/assets/img/tour9.jpeg&quot; alt=&quot;Alt text&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;we-visited-youtube-with-4-mentors-and-we-took-a-look-at-the-inside&quot;&gt;We visited Youtube with 4 mentors and we took a look at the inside.&lt;/h3&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Donghyun Kim Mentor and Soohyun Lee Mentor showed how to collaborate with git in conference room. We learned how to use it by typing commands. Jeongeun Kim Mentor explained what PRD(program requirements document) is, both were really good time. Each of students conducted HR interviews in English while holding a meeting about team products. It was a good time to experience indirectly HR interviews in Silicon Valley, USA.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;review&quot;&gt;REVIEW&lt;/h2&gt;
-
-&lt;dl&gt;
- &lt;dt&gt;Seungwoo Jeong&lt;/dt&gt; 
- &lt;dd&gt;&quot;It was really memorable moment. The second floor of Youtube was for UX designer and it looks really comfortable for work. In the dream office, I did also HR interview with Ethan Kim. I was so touched just I was there with google engineer. I am so grateful to the mentors for making this opportunity possible.&quot;&lt;/dd&gt;
-
- &lt;dt&gt;Minjun Cha&lt;/dt&gt;  
- &lt;dd&gt;&quot;First, I fascinated fantastic work space. Having a meeting in the YouTube meeting room was a very valuable experience. I really wanted to work. Also In and Out burger was very delicious hahahaha.&quot;&lt;/dd&gt;
-
- &lt;dt&gt;Seunghwan Hong&lt;/dt&gt;
- &lt;dd&gt;&quot;It was my dream office, and I was totally mind-blown. A cool office with a different and light atmosphere than Korea was enough to make me fascinate. The feeling I felt for that day will be remembered forever.&quot;&lt;/dd&gt;
-
- &lt;dt&gt;Hyeonggeun Eom&lt;/dt&gt; 
- &lt;dd&gt;&quot;It was much more amazing place than I imagined. I was overwhelmed by the atmosphere of a completely different office from the office full of partitions. I got the feeling that something was boiling in my mind!!!&quot;&lt;/dd&gt;
-&lt;/dl&gt;
-
-&lt;hr /&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Teamname&lt;/strong&gt; : Quadcore&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Leader&lt;/strong&gt; : Seungwoo Jeong&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Team Quadcore</name></author><category term="SV Experiences" /><summary type="html">We visited Youtube with 4 mentors and we took a look at the inside. Donghyun Kim Mentor and Soohyun Lee Mentor showed how to collaborate with git in conference room. We learned how to use it by typing commands. Jeongeun Kim Mentor explained what PRD(program requirements document) is, both were really good time. Each of students conducted HR interviews in English while holding a meeting about team products. It was a good time to experience indirectly HR interviews in Silicon Valley, USA. REVIEW Seungwoo Jeong &quot;It was really memorable moment. The second floor of Youtube was for UX designer and it looks really comfortable for work. In the dream office, I did also HR interview with Ethan Kim. I was so touched just I was there with google engineer. I am so grateful to the mentors for making this opportunity possible.&quot; Minjun Cha &quot;First, I fascinated fantastic work space. Having a meeting in the YouTube meeting room was a very valuable experience. I really wanted to work. Also In and Out burger was very delicious hahahaha.&quot; Seunghwan Hong &quot;It was my dream office, and I was totally mind-blown. A cool office with a different and light atmosphere than Korea was enough to make me fascinate. The feeling I felt for that day will be remembered forever.&quot; Hyeonggeun Eom &quot;It was much more amazing place than I imagined. I was overwhelmed by the atmosphere of a completely different office from the office full of partitions. I got the feeling that something was boiling in my mind!!!&quot; Teamname : Quadcore Leader : Seungwoo Jeong</summary></entry></feed>
+&lt;/ul&gt;</content><author><name>Team Quadcore</name></author><category term="SV Experiences" /><summary type="html">Local Market is held every weekend in front of Ferry Building. We visit it and taste some local food. After having lunch at Ziggy’s burger, we went to Coi tower and could see golden bridge &amp;amp; alcatraz because of the weather. There is the second largest Chinatown in Sanfrancisco. We felt like we are in China. It was a little tough day, but we had a good memory! Our route Ferry Building(Local Market) &amp;gt; Ziggy’s burger &amp;gt; Coi Tower &amp;gt; China Town REVIEW Seungwoo Jeong We was supposed to go meet-up , but most attendees are 50-60s. So we decide to hang out by ourselves. It was great choice. We walked and went around from Ferry building to Union Square, the distance was really long, but I felt so good cause I always sit and do Mvp project. It was good to refresh my mind! Minjun Cha was worried about the rain coming but the weather was very nice. We saw many local market in Ferry Building and experienced their atmosphere. Coi tower was very grand. It was hard to get there because it was too high. But it was nice experience. China town was an environment that made me misunderstand that I an in America. But I do not want to go again…. Seunghwan Hong Ferry Building was more beautiful as I expected. Nice weather and delicious food perfectly supported my nice day. Also Coi Tower was enough to capture my mind. It was very hard journey, but It was good to me for organizing my thoughts. It was nice day! Hyeonggeun Eom The beach near the Ferry Building was really good. The weather was good and everything was perfect! The road from Ferry Building to Coi tower was extremly high and difficult. But, the landscape of arriving made me think that i didn’t waste my sweat. Teamname : Quadcore Leader : Seungwoo Jeong</summary></entry></feed>
