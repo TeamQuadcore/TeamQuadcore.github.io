@@ -5,8 +5,9 @@ category: SV Experiences
 excerpt_separator:  <!--more-->
 ---
 
-![Alt text](/assets/img/yelp6.JPG)
+
 - Before meet-up we ate The five burger in front of Yelp.
+![Alt text](/assets/img/yelp6.JPG)
 ![Alt text](/assets/img/yelp4.JPG)
 - They serve pizza, salad, beer, and snacks.
 ![Alt text](/assets/img/yelp2.JPG)
