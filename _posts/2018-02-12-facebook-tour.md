@@ -5,16 +5,10 @@ category: SV Experiences
 excerpt_separator:  <!--more-->
 ---
 
-![Alt text](/assets/img/goo1.JPG)
-![Alt text](/assets/img/goo2.JPG)
-![Alt text](/assets/img/goo3.JPG)
-![Alt text](/assets/img/goo4.JPG)
-![Alt text](/assets/img/goo5.JPG)
-![Alt text](/assets/img/goo6.JPG)
-![Alt text](/assets/img/goo7.JPG)
-![Alt text](/assets/img/goo8.JPG)
-![Alt text](/assets/img/goo9.JPG)
-![Alt text](/assets/img/goo10.JPG)
+![Alt text](/assets/img/face1.jpeg)
+![Alt text](/assets/img/face2.jpeg)
+![Alt text](/assets/img/face3.jpeg)
+![Alt text](/assets/img/face4.jpeg)
 
 ### Where
 - 1 Hacker Way, Menlo Park, CA 94025
@@ -23,7 +17,7 @@ excerpt_separator:  <!--more-->
 - Mon, Feb 12, 2018 at 12:00 AM ~ 2:00 PM
 
 ### Feels like I'm in theme park
- > 
+ > There are so many convenient facilities for employees. Also the working place looks really comfortable and unconstrained. Thanks to Lucas we were able to try another valuable experience.
 
 * * *
 
@@ -47,6 +41,7 @@ excerpt_separator:  <!--more-->
 
 - **Teamname** : Quadcore 
 - **Leader** : Seungwoo Jeong
+
 
 
 

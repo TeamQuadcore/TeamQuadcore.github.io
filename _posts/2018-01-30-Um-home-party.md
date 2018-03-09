@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Um Tea Hoon Mentor's home party
+title:  Um Tae Hoon Mentor's home party
 category: SV Experiences
 excerpt_separator:  <!--more-->
 ---
@@ -37,6 +37,7 @@ excerpt_separator:  <!--more-->
 
 - **Teamname** : Quadcore 
 - **Leader** : Seungwoo Jeong
+
 
 
 

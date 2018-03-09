@@ -5,16 +5,10 @@ category: SV Experiences
 excerpt_separator:  <!--more-->
 ---
 
-![Alt text](/assets/img/goo1.JPG)
-![Alt text](/assets/img/goo2.JPG)
-![Alt text](/assets/img/goo3.JPG)
-![Alt text](/assets/img/goo4.JPG)
-![Alt text](/assets/img/goo5.JPG)
-![Alt text](/assets/img/goo6.JPG)
-![Alt text](/assets/img/goo7.JPG)
-![Alt text](/assets/img/goo8.JPG)
-![Alt text](/assets/img/goo9.JPG)
-![Alt text](/assets/img/goo10.JPG)
+![Alt text](/assets/img/air1.jpeg)
+![Alt text](/assets/img/air2.jpeg)
+![Alt text](/assets/img/air3.jpeg)
+![Alt text](/assets/img/air4.jpeg)
 
 ### Where
 - 888 Brannan St, San Francisco, CA 94103
@@ -22,8 +16,8 @@ excerpt_separator:  <!--more-->
 ### When
 - Fri, Feb 09, 2018 at 04:00 AM ~ 6:00 PM
 
-### Tour Dream Company, Google.
- > David is a UX designer in Google and we met at Tech-Talk. He invited us to Google plex, so I visited the Google head office and ate a delicious lunch. We visit 3 different restaurant (food truck, asian noodle restaurant, main restaurant), we were really full, but can’t stop eating..! There are fitness club, cafe, restaurants, bikes, zip-car, and even massage center. Employees in Google can concentrate on work completely, that’s why Google has best engineers. 
+### The best work space I ever been to
+ > It was the place where the inside was the best among the companies which visited so far. It seems that the idea of ​​building a space inspired by the home of a good Air Bnbi host in each country is great. If you graduate later and get support from the company, you want to be a top priority.
 
 * * *
 
@@ -47,6 +41,7 @@ excerpt_separator:  <!--more-->
 
 - **Teamname** : Quadcore 
 - **Leader** : Seungwoo Jeong
+
 
 
 
